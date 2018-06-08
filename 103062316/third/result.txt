@@ -1,0 +1,22 @@
+Results of Frank-Runge-Kutta method:
+Output
+Approximated values of y:
+[[ 3.        ]
+ [ 2.99850031]
+ [ 2.99700137]
+ ..., 
+ [ 1.8213746 ]
+ [ 1.8204641 ]
+ [ 1.81955406]]
+Exact values of y:
+[[ 3.        ]
+ [ 2.99850037]
+ [ 2.9970015 ]
+ ..., 
+ [ 1.82141245]
+ [ 1.82050197]
+ [ 1.81959194]]
+Maximum error:
+[  3.78818000e-05]
+Total execution time:
+0.012508392333984375

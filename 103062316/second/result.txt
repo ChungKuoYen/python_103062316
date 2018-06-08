@@ -1,0 +1,72 @@
+第一題
+Results of Frank-Runge-Kutta method:
+Output
+Approximated values of y:
+[[ 1.        ]
+ [ 1.001     ]
+ [ 1.002     ]
+ ..., 
+ [ 1.7460869 ]
+ [ 1.74645589]
+ [ 1.74682413]]
+Exact values of y:
+[[ 1.        ]
+ [ 1.001     ]
+ [ 1.00199999]
+ ..., 
+ [ 1.74608689]
+ [ 1.74645587]
+ [ 1.74682412]]
+Maximum error:
+[ 1.40649348e-08]
+Total execution time:
+0.010512113571166992
+
+第二題
+Results of Frank-Runge-Kutta method:
+Output
+Approximated values of y:
+[[ 0.]
+ [ 0.]
+ [ 0.]
+ ..., 
+ [ 0.]
+ [ 0.]
+ [ 0.]]
+Exact values of y:
+[[ 0.]
+ [ 0.]
+ [ 0.]
+ ..., 
+ [ 0.]
+ [ 0.]
+ [ 0.]]
+Maximum error:
+[ 0.]
+Total execution time:
+0.010507583618164062
+
+第三題
+Results of Frank-Runge-Kutta method:
+Output
+Approximated values of y:
+[[  0.00000000e+00]
+ [  1.38333333e-07]
+ [  6.08666667e-07]
+ ..., 
+ [  1.64857553e-01]
+ [  1.65186767e-01]
+ [  1.65516305e-01]]
+Exact values of y:
+[[  0.00000000e+00]
+ [  1.66000005e-07]
+ [  6.64000005e-07]
+ ..., 
+ [  1.64884413e-01]
+ [  1.65213652e-01]
+ [  1.65543214e-01]]
+Maximum error:
+[  2.69094064e-05]
+Total execution time:
+0.015510320663452148
+

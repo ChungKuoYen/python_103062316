@@ -1,0 +1,84 @@
+Results of Euler method:
+Output
+Approximated values of y:
+[[  0.00000000e+00]
+ [  0.00000000e+00]
+ [  1.00000000e-06]
+ ..., 
+ [  7.13498224e-01]
+ [  7.15209723e-01]
+ [  7.16923932e-01]]
+Exact values of y:
+[[  0.00000000e+00]
+ [  5.00166708e-07]
+ [  2.00133400e-06]
+ ..., 
+ [  7.14850698e-01]
+ [  7.16564905e-01]
+ [  7.18281828e-01]]
+Maximum error:
+[ 0.0013579]
+Results of Improved Euler method:
+Output
+Approximated values of y:
+[[  0.00000000e+00]
+ [  5.00000000e-07]
+ [  2.00100025e-06]
+ ..., 
+ [  7.14850247e-01]
+ [  7.16564454e-01]
+ [  7.18281376e-01]]
+Exact values of y:
+[[  0.00000000e+00]
+ [  5.00166708e-07]
+ [  2.00133400e-06]
+ ..., 
+ [  7.14850698e-01]
+ [  7.16564905e-01]
+ [  7.18281828e-01]]
+Maximum error:
+[  4.52707284e-07]
+Results of Runge-Kutta method:
+Output
+Approximated values of y:
+[[  0.00000000e+00]
+ [  5.00166708e-07]
+ [  2.00133400e-06]
+ ..., 
+ [  7.14850698e-01]
+ [  7.16564905e-01]
+ [  7.18281828e-01]]
+Exact values of y:
+[[  0.00000000e+00]
+ [  5.00166708e-07]
+ [  2.00133400e-06]
+ ..., 
+ [  7.14850698e-01]
+ [  7.16564905e-01]
+ [  7.18281828e-01]]
+Maximum error:
+[  2.27595720e-14]
+Results of Runge–Kutta–Fehlberg method:
+Output
+Approximated values of y:
+[[  0.00000000e+00]
+ [  5.00166708e-07]
+ [  2.00161142e-06]
+ ..., 
+ [  7.15125991e-01]
+ [  7.16840949e-01]
+ [  7.18558625e-01]]
+Exact values of y:
+[[  0.00000000e+00]
+ [  5.00166708e-07]
+ [  2.00133400e-06]
+ ..., 
+ [  7.14850698e-01]
+ [  7.16564905e-01]
+ [  7.18281828e-01]]
+Maximum error:
+[ 0.0002768]
+Results of Adams-Moulton method:
+not finished yet
+Total execution time:
+0.0515284538269043
